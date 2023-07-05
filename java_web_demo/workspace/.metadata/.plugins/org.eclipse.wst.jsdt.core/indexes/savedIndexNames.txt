@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/thelocal69/java_web_demo/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3888666049.index
+346246742.index
+616728608.index
+2201706016.index
+2305775150.index
+1027798782.index
